@@ -1,7 +1,7 @@
 <div>
   <h1 style="text-align: center; font-size: 3rem">👋 Hi There!</h1>
   <div class="presentation" style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center">
-    <div class="right-space" style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+    <div class="right-space" align="left">
       <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="150px" />
       <div class="badges" style="width: 350px; margin-top: 20px; display: flex; justify-content: space-between; align-items: center">
         <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" />
@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white" />
       </div>
     </div>
-    <div class="left-space" style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+    <div class="left-space" align="right">
       <ul style="font-size: 1.2rem; display: felx; flex-direction: column; justify-content: center; align-items: flex-start; text-align: start; list-style: none">
         <li>👑 My name is <strong>Filipe</strong> aka <strong>Broke</strong></li>
         <li>🧑‍🦰 I'm a <strong>Full Stack</strong> developer from <strong>Portugal (PT)</strong></li>
