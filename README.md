@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-👋 Hi There!
-============
+<img align="center" src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif"></img>
 
 ![](https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif)
 
