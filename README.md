@@ -10,7 +10,7 @@ const broke = {
     startedAt: 2014,
     code: ["Java", "JavaScript", "TypeScript", "React", "PhP", "Html", "Css",, "Sass"],
     technologies: {
-        backEnd: ["Node", "Express", "AdoisJS"]
+        backEnd: ["Node", "Express", "AdoisJS"],
         devOps: ["AWS", "Docker", "Nginx"],
         databases: ["MySql", "sqlite"],
         misc: ["Socket.IO"]
