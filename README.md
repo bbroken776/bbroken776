@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-<img align='center' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
-
-![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)![](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
+<img align="right" src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
 
 * 👑 My name is **Filipe** aka **Broke**
 * 🧑‍🦰 I'm a **Full Stack** developer from **Portugal (PT)**
 * 🌿 I've been coding since the beginning of **2014**
 * 🔒 Exploring **Cyber Secutiry** and **Web 3.0**
+
+![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
+
 
 📊 My GitHub Stats
 ======================
