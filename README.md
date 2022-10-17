@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filipe</h1>
-
-### <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> A little more about me...
+<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> <h1 align="center">Hi 👋, I'm Filipe</h1>
 
 ```javascript
 const broke = {
@@ -33,6 +31,7 @@ const broke = {
 🌙 Night                 90  commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59%
 ```
 
+
 📅 **I'm Most Productive on Sunday** 
 ```text
 Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
@@ -43,6 +42,7 @@ Friday                   90 commits          ███░░░░░░░░�
 Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
 Sunday                   156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61%
 ```
+
 
 📊 **This Week I Spent My Time On** 
 ```text
@@ -62,8 +62,8 @@ VS Code                  17 hrs 20 mins      ███████████�
 
 💻 Operating System: 
 Mac                      21 hrs              █████████████████████████   100.0%
-
 ```
+
 
 💎**I Mostly Code in JavaScript** 
 ```text
