@@ -18,11 +18,11 @@ const broke = {
 };
 ```
 
-<section align="center">
+<div align="center">
     [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=no_cron)
     [![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/927048366649671720)
     ![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
-    </section>
+    </div>
 
 
 📚 **I'm an Early 🐤** 
