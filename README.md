@@ -73,11 +73,3 @@ JavaScript               10 repos            ███████████�
 Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
 ```
-
-<br/>
-
-📊 My GitHub Stats
-======================
-
-![](https://github-readme-stats.vercel.app/api?username=brokebrk&show_icons=true&count_private=true&theme=dracula)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brokebrk&layout=compact&theme=dracula)
