@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-### <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> A little more abour me...
+### <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> A little more about me...
 
 ```javascript
 const broke = {
