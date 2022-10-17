@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> <h1 align="center">Hi 👋, I'm Filipe</h1>
+<h1 align="center"><img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Hi 👋, I'm Filipe</h1>
 
 ```javascript
 const broke = {
@@ -23,7 +23,7 @@ const broke = {
 ![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
 
 
-**I'm an Early 🐤** 
+📚 **I'm an Early 🐤** 
 ```text
 🌞 Morning               50  commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
 🌆 Daytime               320 commits         ██████████░░░░░░░░░░░░░░░   41.48% 
