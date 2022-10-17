@@ -20,7 +20,7 @@ const broke = {
 };
 ```
 
-[![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/intent/follow?screen_name=no_cron)
+[![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=no_cron)
 
 ![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)
