@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> Hi 👋, I'm Filipe</h1>
+<h1 align="center"><img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="55"> Hello there, I'm Filipe</h1>
 
 ```javascript
 const broke = {
