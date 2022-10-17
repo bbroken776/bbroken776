@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-<img align='right' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
-
-![](https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif)
+<img align='center' src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
 
 ![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)![](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
 
