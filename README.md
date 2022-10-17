@@ -22,6 +22,8 @@ const broke = {
 [![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/927048366649671720)
 ![](https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=twitter&logoColor=white)
 
+<br/>
+
 📚 **I'm an Early 🐤** 
 ```text
 🌞 Morning               50  commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
@@ -30,6 +32,7 @@ const broke = {
 🌙 Night                 90  commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59%
 ```
 
+<br/>
 
 📅 **I'm Most Productive on Sunday** 
 ```text
@@ -41,7 +44,7 @@ Friday                   90 commits          ███░░░░░░░░�
 Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
 Sunday                   156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61%
 ```
-
+<br/>
 
 📊 **This Week I Spent My Time On** 
 ```text
@@ -62,7 +65,7 @@ VS Code                  17 hrs 20 mins      ███████████�
 💻 Operating System: 
 Mac                      21 hrs              █████████████████████████   100.0%
 ```
-
+<br/>
 
 💎**I Mostly Code in JavaScript** 
 ```text
@@ -70,6 +73,8 @@ JavaScript               10 repos            ███████████�
 Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
 ```
+
+<br/>
 
 📊 My GitHub Stats
 ======================
