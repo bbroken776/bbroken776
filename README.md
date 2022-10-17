@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
 <img align="right" src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="230">
-
 * 👑 My name is **Filipe** aka **Broke**
 * 🧑‍🦰 I'm a **Full Stack** developer from **Portugal (PT)**
 * 🌿 I've been coding since the beginning of **2014**
