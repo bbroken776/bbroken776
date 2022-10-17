@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Filipe</h1>
 
-<img align="right" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300">
+### <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> A little more abour me...
 
-* 👑 My name is **Filipe** aka **Broke**
-* 🧑‍🦰 I'm a **Full Stack** developer from **Portugal (PT)**
-* 🌿 I've been coding since the beginning of **2014**
-* 🔒 Exploring **Cyber Secutiry** and **Web 3.0**
+```javascript
+const broke = {
+    name: "Filipe Guedes",
+    pronouns: "He" | "Him",
+    country: "Portugal (PT)",
+    startedAt: 2014,
+    code: ["Java", "JavaScript", "TypeScript", "React", "PhP", "Html", "Css",, "Sass"],
+    technologies: {
+        backEnd: ["Node", "Express", "AdoisJS"]
+        devOps: ["AWS", "Docker", "Nginx"],
+        databases: ["MySql", "sqlite"],
+        misc: ["Socket.IO"]
+    },
+    currentFocus: "Building Robots to ease opertations",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ![](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white)
