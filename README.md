@@ -1,12 +1,12 @@
 <h1 align="center"><img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="55"> Hello there, I'm Filipe</h1>
 
-```javascript
+```typescript
 const broke = {
     name: "Filipe Guedes",
     pronouns: "He" | "Him",
     country: "Portugal (PT)",
     startedAt: 2014,
-    code: ["Java", "JavaScript", "TypeScript", "React", "PhP", "Html", "Css",, "Sass"],
+    code: ["Java", "JavaScript", "TypeScript", "React", "PhP", "Html", "Css", "Sass"],
     technologies: {
         backEnd: ["Node", "Express", "AdoisJS"],
         devOps: ["AWS", "Docker", "Nginx"],
